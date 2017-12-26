@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Springsteel-Light;
+    src: url("Springsteel-Light.woff") format("woff"), url("Springsteel-Light.ttf")  format("truetype");
+}
+
+body {
+  font-family: "Springsteel-Light", "serif", "Times New Roman";
+}
+
+header {
+  min-height: 90vh;
+  max-height: 90vh;
+  margin-top: 50px;
+}
+
+header img {
+  max-height: 90vh;
+  margin: 0 auto;
+}

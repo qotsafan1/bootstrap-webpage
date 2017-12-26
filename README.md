@@ -1,2 +1,0 @@
-# bootstrap-webpage
-Fyrir bro
