@@ -9,6 +9,14 @@ body {
   font-family: "Springsteel-Light", "serif", "Times New Roman";
 }
 
+.navbar li {
+  font-size: 18px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
 header {
   min-height: 90vh;
   max-height: 90vh;
