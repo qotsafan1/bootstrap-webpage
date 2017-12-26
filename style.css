@@ -13,8 +13,9 @@ body {
   font-size: 18px;
 }
 
-.navbar-brand {
+.navbar-header .navbar-brand {
   font-size: 20px;
+  color: #ffffff;
 }
 
 header {
