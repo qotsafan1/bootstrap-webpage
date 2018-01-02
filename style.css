@@ -30,7 +30,7 @@ header {
 }
 
 header img {
-  max-height: 90vh;
+  max-height: 60vh;
   margin: 0 auto;
 }
 
@@ -38,7 +38,17 @@ section {
   padding-top: 40px;
 }
 
+
 .vcenter {
    vertical-align: middle;
    float: none;
+}
+
+p {
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.container {
+  max-width: 850px;
 }
