@@ -44,6 +44,10 @@ section {
    float: none;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 p {
   line-height: 30px;
   font-size: 20px;
